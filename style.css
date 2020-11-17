@@ -12,6 +12,11 @@ body {
     width: 100%;
 }
 
+#container{
+    width: 80%;
+    margin: auto;
+}
+
 #sur-div, #avant, #echelle, #oblique{
     width: 300px;
     height: 300px;
